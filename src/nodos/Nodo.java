@@ -11,6 +11,5 @@ package nodos;
  */
 public class Nodo {
        int dato;
-       
        public Nodo siguienteNodo;
 }
